@@ -1,0 +1,135 @@
+
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Quicksand', sans-serif;
+  font-size: 1em;
+}
+
+p {
+  color: #40514E;
+}
+
+h1 {
+  font-size: 5rem;
+  color: #66BFBF;
+  margin:50px auto 20px auto;
+  font-family: 'Sacramento', cursive;
+}
+
+h2 {
+  color: #66BFBF;
+  font-size: 1.7rem;
+  font-weight: normal;
+  line-height: 2;
+}
+
+h3 {
+  color: #11999E;
+  font-weight: normal;
+}
+
+.hr-dots {
+  border-style: dotted none none none;
+  border-top-color: #EAF6F6;
+  border-top-width: 10px;
+  Width: 5%;
+}
+
+.top-container{
+  background-color: #EAF6F6;
+  padding-top: 50px;
+}
+
+.bottom-container {
+  background-color: #66BFBF;
+  height: 120px;
+}
+
+.profile {
+  margin-bottom: 50px;
+}
+
+.skills {
+  margin-bottom: 50px;
+}
+
+.cloud-img-1 {
+  position: relative;
+  left: 200px;
+  top: 0;
+}
+
+.cloud-img-2 {
+  position: absolute;
+  left: 350px;
+}
+
+.mountain-img {
+  margin-bottom:0;
+}
+
+.profile-img {
+  width: 15%;
+  margin-top: 1.5%
+}
+
+.skills {
+    padding-top: 10px;
+}
+
+.skill-row {
+  width:50%;
+  margin:25px auto 25px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.skill-img-1 {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.skill-img-2 {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+.contact-me {
+  line-height: 2;
+  width: 50%;
+  display: inline-block;
+  margin-bottom: 50px;
+}
+
+.footer-link {
+  color: #11999E;
+  font-size: .8rem;
+  text-decoration: none;
+  position: relative;
+  margin: 20px;
+}
+
+.footer-text {
+  padding-top:40px;
+}
+
+.copyright {
+  color: #EAF6F6;
+  font-size: .5rem;
+}
+
+.copyright-text {
+  padding-top: 20px;
+}
+
+.btn {
+  background-color: #11999E;
+  color: white;
+  font-size: 1rem;
+  Padding: 10px 20px 10px 20px;
+  text-decoration: none;
+  border-radius: 5px;
+}
